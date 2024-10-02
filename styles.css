@@ -1,0 +1,52 @@
+body{
+  background-color: #1F2039;
+}
+
+h1
+ {
+  font-size: 3.5em;
+  color: #A5B4FC;
+  font-family:"montserrat";
+}
+
+h2{
+
+  color: #F9F8FF;
+}
+
+.Apropos{
+  color: #242424;  
+}
+
+.important{
+  color: #A5B4FC;
+}
+
+p{
+  font-size: 1.1em;
+  font-family: "Manrope";
+  color: #F9F8FF;
+}
+
+ul{
+  font-size: 1em;
+  font-family: "Manrope";
+  color: #F9F8FF;
+}
+
+a{
+  font-size: 1em;
+  font-family: "Manrope";
+  text-decoration: none;
+}
+
+div{
+  background-color: white; 
+}
+
+.projet{
+  background: linear-gradient(#8E86B5,#ACAEED);
+  width: fit-content;
+  
+}
+
