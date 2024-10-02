@@ -1,52 +1,71 @@
-body{
-  background-color: #1F2039;
+body {
+  background-color: #1f2039;
 }
 
-h1
- {
+h1 {
   font-size: 3.5em;
-  color: #A5B4FC;
-  font-family:"montserrat";
+  color: #a5b4fc;
+  font-family: "montserrat";
 }
 
-h2{
-
-  color: #F9F8FF;
+h2 {
+  color: #f9f8ff;
 }
 
-.Apropos{
-  color: #242424;  
+.Apropos {
+  color: #242424;
 }
 
-.important{
-  color: #A5B4FC;
+.Apropos:hover{
+  opacity: 0.5;
 }
 
-p{
+.important {
+  color: #a5b4fc;
+}
+
+p {
   font-size: 1.1em;
   font-family: "Manrope";
-  color: #F9F8FF;
+  color: #f9f8ff;
 }
 
-ul{
+ul {
   font-size: 1em;
   font-family: "Manrope";
-  color: #F9F8FF;
+  color: #f9f8ff;
 }
 
-a{
+a {
   font-size: 1em;
   font-family: "Manrope";
   text-decoration: none;
 }
 
-div{
-  background-color: white; 
+.border1 {
+  border-bottom: 1px #8e86b5 solid;
+  border-right: 1px #8e86b5 solid;
 }
 
-.projet{
-  background: linear-gradient(#8E86B5,#ACAEED);
+.links {
+  background-color: white;
+}
+
+.projet {
+  background: linear-gradient(#8e86b5, #acaeed);
   width: fit-content;
-  
+  border-radius: 50px;
 }
 
+.profolio {
+  color: #f9f8ff;
+}
+.profolio:hover{
+  background-color: #8788BA;
+  width: fit-content;
+  border-radius: 50px;
+}
+
+.hoverlink:hover{
+  opacity: 0.5;
+}
